@@ -30,7 +30,7 @@
             if (intento?.Trim().Equals(etq, StringComparison.OrdinalIgnoreCase) == true)
             {
                 Console.WriteLine($"\n¡Correcto! La etiqueta oculta era '{etq}'.");
-                Console.WriteLine($"🔁 Lo lograste en {intentos} intento(s).");
+                Console.WriteLine($"\nLo lograste en {intentos} intento(s).");
                 break;
             }
             else
