@@ -1,0 +1,28 @@
+/home/camper/JoseJ1/EtiquetaOculta/bin/Debug/net8.0/EtiquetaOculta
+/home/camper/JoseJ1/EtiquetaOculta/bin/Debug/net8.0/EtiquetaOculta.deps.json
+/home/camper/JoseJ1/EtiquetaOculta/bin/Debug/net8.0/EtiquetaOculta.runtimeconfig.json
+/home/camper/JoseJ1/EtiquetaOculta/bin/Debug/net8.0/EtiquetaOculta.dll
+/home/camper/JoseJ1/EtiquetaOculta/bin/Debug/net8.0/EtiquetaOculta.pdb
+/home/camper/JoseJ1/EtiquetaOculta/obj/Debug/net8.0/EtiquetaOculta.GeneratedMSBuildEditorConfig.editorconfig
+/home/camper/JoseJ1/EtiquetaOculta/obj/Debug/net8.0/EtiquetaOculta.AssemblyInfoInputs.cache
+/home/camper/JoseJ1/EtiquetaOculta/obj/Debug/net8.0/EtiquetaOculta.AssemblyInfo.cs
+/home/camper/JoseJ1/EtiquetaOculta/obj/Debug/net8.0/EtiquetaOculta.csproj.CoreCompileInputs.cache
+/home/camper/JoseJ1/EtiquetaOculta/obj/Debug/net8.0/EtiquetaOculta.dll
+/home/camper/JoseJ1/EtiquetaOculta/obj/Debug/net8.0/refint/EtiquetaOculta.dll
+/home/camper/JoseJ1/EtiquetaOculta/obj/Debug/net8.0/EtiquetaOculta.pdb
+/home/camper/JoseJ1/EtiquetaOculta/obj/Debug/net8.0/EtiquetaOculta.genruntimeconfig.cache
+/home/camper/JoseJ1/EtiquetaOculta/obj/Debug/net8.0/ref/EtiquetaOculta.dll
+C:\Users\Reyes\Downloads\1. Campus\2. Projects\.NET\EtiquetaOculta\bin\Debug\net8.0\EtiquetaOculta.exe
+C:\Users\Reyes\Downloads\1. Campus\2. Projects\.NET\EtiquetaOculta\bin\Debug\net8.0\EtiquetaOculta.deps.json
+C:\Users\Reyes\Downloads\1. Campus\2. Projects\.NET\EtiquetaOculta\bin\Debug\net8.0\EtiquetaOculta.runtimeconfig.json
+C:\Users\Reyes\Downloads\1. Campus\2. Projects\.NET\EtiquetaOculta\bin\Debug\net8.0\EtiquetaOculta.dll
+C:\Users\Reyes\Downloads\1. Campus\2. Projects\.NET\EtiquetaOculta\bin\Debug\net8.0\EtiquetaOculta.pdb
+C:\Users\Reyes\Downloads\1. Campus\2. Projects\.NET\EtiquetaOculta\obj\Debug\net8.0\EtiquetaOculta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reyes\Downloads\1. Campus\2. Projects\.NET\EtiquetaOculta\obj\Debug\net8.0\EtiquetaOculta.AssemblyInfoInputs.cache
+C:\Users\Reyes\Downloads\1. Campus\2. Projects\.NET\EtiquetaOculta\obj\Debug\net8.0\EtiquetaOculta.AssemblyInfo.cs
+C:\Users\Reyes\Downloads\1. Campus\2. Projects\.NET\EtiquetaOculta\obj\Debug\net8.0\EtiquetaOculta.csproj.CoreCompileInputs.cache
+C:\Users\Reyes\Downloads\1. Campus\2. Projects\.NET\EtiquetaOculta\obj\Debug\net8.0\EtiquetaOculta.dll
+C:\Users\Reyes\Downloads\1. Campus\2. Projects\.NET\EtiquetaOculta\obj\Debug\net8.0\refint\EtiquetaOculta.dll
+C:\Users\Reyes\Downloads\1. Campus\2. Projects\.NET\EtiquetaOculta\obj\Debug\net8.0\EtiquetaOculta.pdb
+C:\Users\Reyes\Downloads\1. Campus\2. Projects\.NET\EtiquetaOculta\obj\Debug\net8.0\EtiquetaOculta.genruntimeconfig.cache
+C:\Users\Reyes\Downloads\1. Campus\2. Projects\.NET\EtiquetaOculta\obj\Debug\net8.0\ref\EtiquetaOculta.dll
